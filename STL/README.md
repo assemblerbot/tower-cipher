@@ -60,5 +60,5 @@ Assembled parts:
 ![Assembled parts](AssembledParts.jpg)
 
 ## Coloring
-Optional, I've used Citadel acrylic paints for miniatures with black undercoat.
+Optional, I've used Citadel acrylic paints for miniatures with black undercoat to increase readability of the letters and numbers.
 ![Painted version](Painted.jpg)

@@ -1,7 +1,7 @@
 # The Tower cipher
 Mechanical 3D printable cipher device for **education and hobby purposes** only.
 It's based on the similar principle as most rotor cipers.
-The Tower cipher uses 5mm metalic (or glass) ball as a signal carrier to trace letters through pseudo-random pathways inside rotors.
+The Tower cipher uses **5mm metalic (or glass) ball** as a signal carrier to trace letters through pseudo-random pathways inside rotors.
 
 ![Final version](ReadMePictures/Final.jpg)
 
@@ -29,27 +29,28 @@ In this case:
 - rotor `#` must be set to position `01`
 - rotor `?` must be set to position `02`
 - rotor `&` must be set to position `03`
+
 There is also an optional rotation pattern: after each letter the position on the rotor `?` should be increased by `+1`.
 
 ### Encryption
 1. Setup the device. Order of rotors is by the key **from top to bottom**.
 2. Throw the ball to the letter hole on the top for next letter of a plaintext.
 3. Ball returnes from one of bottom holes and indicates the letter from ciphertext.
-4. Don't forget to turn rotors by rotation pattern.
+4. Turn rotors by rotation pattern.
 5. Repeat from step 2.
 
 ### Decryption
 1. Setup the device. Order of rotors is inverted **from bottom to top**.
 2. Throw the ball to the letter hole on the top for each ciphertext.
 3. Ball returnes from one of bottom holes and indicates the letter from plaintext.
-4. Don't forget to turn rotors by rotation pattern.
+4. Turn rotors by rotation pattern.
 5. Repeat from step 2.
 
 ## Additional features
-There is small ball storage on the top.
+There is a small ball storage on the top.
 ![Ball storage](ReadMePictures/BallStorage.jpg)
 
-Tweezers can be stored in the storage are at the bottom of the base part.
+Tweezers can be stored in a storage are at the bottom of the base part.
 ![Tweezers storage](ReadMePictures/TweezersStorage.jpg)
 
 ## Notes
@@ -66,3 +67,4 @@ Also straight connections (A to A) and short connections between neighbouring pi
 
 ### Key strength
 Since the internal structure of the device is known, there are `3*2*1` combinations of rotor placements and `26*26*26` combinations of rotor positions which yields `105456` combinations the key without rotation patterns.
+Rotation pattern can significantly increase the encryption strength yet too complex patterns might be hard to use.
