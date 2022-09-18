@@ -47,7 +47,7 @@ If you want to really create new pathways in current 3 layer setup then use foll
 - **carefully check sliced rotor layer by layer if there are any glitches, pathways overlaps, holes and so on**
 - print
 
-Rotors I've created looks like this:
+Rotors I've created look like this:
 ![Rotor &](ReadMePictures/RotorAmpersand.jpg)
 ![Rotor ?](ReadMePictures/RotorQuestionMark.jpg)
 ![Rotor #](ReadMePictures/RotorNumberSign.jpg)
