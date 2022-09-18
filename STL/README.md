@@ -7,7 +7,7 @@ You will need:
 
 ## Slicing
 I recommend following settings for Prusa slicer but of course you know your printer and what works for it the best.
-Nozzle diameter 0.6mm, layer height 0.35, no supports are needed.
+Standard PLA, nozzle diameter 0.6mm, layer height 0.35, no supports are needed.
 
 ### Axle
 This part should be strong.
