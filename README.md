@@ -1,4 +1,7 @@
 # tower-cipher
 Mechanical 3D printable cipher device.
 
-See the [Main](Main/README.md) and the [Pathways generator](Tools/PahtwaysGenerator/README.md) tool.
+[STL](STL/README.md) contains printable files and assembly instructions.
+In the [Model](Model/README.md) folder there is a Blender source file for the whole device.
+[Tools/Pathways generator](Tools/PathwaysGenerator/README.md) is the tool I've created for generating internal pathways.
+
