@@ -14,7 +14,10 @@ In the [Model](https://github.com/assemblerbot/tower-cipher/tree/main/Model) fol
 ![Description](ReadMePictures/Description.png)
 
 ### Video
-[YouTube](https://youtu.be/TXNiqYJ8YBw)
+[YouTube - how to use Tower cipher](https://youtu.be/TXNiqYJ8YBw)
+
+### Printable sites
+[Tower cipher on Printables](https://www.printables.com/model/290571-tower-cipher)
 
 ### Key
 Secret phrase or the key consists of 2 mandatory parts and one optional part:
