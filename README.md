@@ -13,6 +13,9 @@ In the [Model](https://github.com/assemblerbot/tower-cipher/tree/main/Model) fol
 ## Operation
 ![Description](ReadMePictures/Description.png)
 
+### Video
+[YouTube](https://youtu.be/TXNiqYJ8YBw)
+
 ### Key
 Secret phrase or the key consists of 2 mandatory parts and one optional part:
 - order of rotors
