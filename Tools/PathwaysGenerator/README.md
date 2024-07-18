@@ -2,13 +2,13 @@
 Pathway generator is a simple one purpose Unity project that I've used to generate internal pathways of the Tower cipher.
 It's main purpose is to create mesh that represents internal structure - pathways - of Tower cipher rotors by following principle:
 - there are "pins" around the rotor (now 26, but can be changed in definition)
-- to avoid flipping the rotors in decryption process, connections between pins are organised as symmetric exchanges: if a pin A is connection with a pin B then the B is connected with the A
+- to avoid flipping the rotors in decryption process, connections between pins are organised as symmetric exchanges: if a pin A is connected with a pin B then the B is connected with the A
 - exchanges are organized to layers
 - each layer represents the one height where exchanges are created, each exchange consists of 2 connections: one runs on outer radius and one on the inner
 - pathways are collision free
 - pathways are 3D printable friendly (no bridges, no overhangs or other potentially problematic structures)
 
-![Layers]((ReadMePictures/Layers.png)
+![Layers](ReadMePictures/Layers.png)
 
 Following conditions must be met in order to create good mesh:
 - if there is a connection from pin A to pin B in layer N, there must be also connection from pin B to pin A in the same layer defined in "Connections" parameter
